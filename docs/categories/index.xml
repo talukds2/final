@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Independent.ie</title>
+    <link>username.github.io/myprojectname//categories/</link>
+    <description>Recent content in Categories on Independent.ie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Mon, 11 Dec 2017 16:56:43 +0200</lastBuildDate>
+    <atom:link href="username.github.io/myprojectname//categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Business</title>
+      <link>username.github.io/myprojectname//categories/business/</link>
+      <pubDate>Mon, 11 Dec 2017 16:56:43 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entertainment</title>
+      <link>username.github.io/myprojectname//categories/entertainment/</link>
+      <pubDate>Tue, 05 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//categories/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ireland</title>
+      <link>username.github.io/myprojectname//categories/ireland/</link>
+      <pubDate>Sat, 09 Dec 2017 13:07:31 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//categories/ireland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>username.github.io/myprojectname//categories/news/</link>
+      <pubDate>Sun, 10 Dec 2017 13:07:31 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>username.github.io/myprojectname//categories/politics/</link>
+      <pubDate>Mon, 11 Dec 2017 16:56:43 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>username.github.io/myprojectname//categories/sports/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//categories/sports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

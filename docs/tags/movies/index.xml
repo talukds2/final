@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Independent.ie</title>
+    <link>username.github.io/myprojectname//tags/movies/</link>
+    <description>Recent content in Movies on Independent.ie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 15:42:47 +0000</lastBuildDate>
+    <atom:link href="username.github.io/myprojectname//tags/movies/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Star Wars: The Last Jedi Premiere</title>
+      <link>username.github.io/myprojectname//post/movie/</link>
+      <pubDate>Fri, 01 Dec 2017 15:42:47 +0000</pubDate>
+      
+      <guid>username.github.io/myprojectname//post/movie/</guid>
+      <description>John Boyega attended the Star Wars: The Last Jedi premiere on Saturday evening in Los Angeles, hours after tweeting about being delayed in Atlanta. The city received major snowfall on Friday morning, which led Boyega to tweet, &amp;ldquo;Wow ATL. Looks like no one&amp;rsquo;s leaving! Guess I&amp;rsquo;ll start a family now&amp;hellip;.&amp;rdquo;
+He then shared with his followers, &amp;ldquo;Trying to get back for the LA premiere! I actually NEED a pilot !!!&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

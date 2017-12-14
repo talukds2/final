@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Independent.ie</title>
+    <link>username.github.io/myprojectname//author/</link>
+    <description>Recent content in Author on Independent.ie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 15:42:47 +0000</lastBuildDate>
+    <atom:link href="username.github.io/myprojectname//author/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aine Harte</title>
+      <link>username.github.io/myprojectname//author/aine-harte/</link>
+      <pubDate>Fri, 01 Dec 2017 15:42:47 +0000</pubDate>
+      
+      <guid>username.github.io/myprojectname//author/aine-harte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catherine Akintula</title>
+      <link>username.github.io/myprojectname//author/catherine-akintula/</link>
+      <pubDate>Tue, 05 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//author/catherine-akintula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Talukder</title>
+      <link>username.github.io/myprojectname//author/sarah-talukder/</link>
+      <pubDate>Mon, 11 Dec 2017 16:56:43 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//author/sarah-talukder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

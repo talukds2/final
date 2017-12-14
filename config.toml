@@ -1,0 +1,110 @@
+baseURL = "username.github.io/myprojectname//"
+publishDir = "docs"
+languageCode = "en-us"
+title = "Independent.ie"
+# preservetaxonomynames = true
+theme = "hugo-travelify-theme"
+DisqusShortname = "nikimonikado"
+GoogleAnalytics = "UA-68204765-1"
+canonifyURLs = true
+# rssURI = "feed/" #deprecated feature
+
+[params]
+# Tell me who you are
+author = "nikimonikado"
+site_description = "Newspaper Website"
+copyright  = "Copyright"
+avatar = "css/images/avatar.png"
+logo = "css/images/logo.png"
+disable_mathjax = false # set to true to disable MathJax
+
+# Format dates with Go's time formatting
+date_format = "January 02, 2006"
+
+# Add custom assets with their paths relative to the static folder
+custom_css = []
+custom_js  = []
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+
+
+
+[[menu.main]]
+name  = "World News"
+url   = "/categories/news/"
+weight = 10
+
+
+[[menu.main]]
+name  = "Irish News"
+url   = "/categories/ireland/"
+weight = 10
+
+[[menu.main]]
+name  = "Contact"
+url   = "/contact/"
+weight = 20
+
+[[menu.main]]
+name  = "Business"
+url   = "/categories/business/"
+weight = 20
+
+
+[[menu.main]]
+name  = "Sport"
+url   = "/categories/sports/"
+weight = 20
+
+
+[[menu.main]]
+name  = "Entertainment"
+url   = "/categories/entertainment/"
+weight = 20
+
+[[menu.main]]
+name  = "Video"
+url   = "/vid/"
+weight = 20
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# created automatically.
+instagram       = "Independent.ie"
+youtube         = "IDGrandPrix2011"
+linkedin        = "irish-independent"
+facebook        = "Independent.ie"
+twitter         = "Independent_ie"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+recent_articles = true
+categories = true
+tags = true
+archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
+search = true
+author = true
+facebook_like = true
+
+[params.slider]
+enable = true
+num_features = 20 # The slider picks up the banner images from the N most recent posts, where num_features is N.
+
+[Taxonomies]
+tags = "tags"
+categories = "categories"
+author = "author"
+
+## DONE - Menu
+## DONE - slider
+## DONE - facebook like on homepage
+## DONE - category URL to work
+## DONE - footer
+## DONE - add tags to the footer
+## TODO - some posts without banner
