@@ -1,4 +1,4 @@
-baseURL = "username.github.io/myprojectname//"
+baseURL = "/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Independent.ie"
