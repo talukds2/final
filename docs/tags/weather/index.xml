@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weather on Independent.ie</title>
-    <link>username.github.io/myprojectname//tags/weather/</link>
+    <link>/tags/weather/</link>
     <description>Recent content in Weather on Independent.ie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright</copyright>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
-    <atom:link href="username.github.io/myprojectname//tags/weather/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/weather/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Snow And Freezing Temperatures Predicted For The Weekend</title>
-      <link>username.github.io/myprojectname//post/weather/</link>
+      <link>/post/weather/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>username.github.io/myprojectname//post/weather/</guid>
+      <guid>/post/weather/</guid>
       <description>It&amp;rsquo;s time to rethink that Christmas party outfit.
 If you&amp;rsquo;re heading out to get into the festive swing of things this weekend you&amp;rsquo;ll need to wrap up warm because snow and freezing cold temperatures are being forecast for the next few days.
   Guardian News on Youtube.
