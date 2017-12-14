@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dublin on Independent.ie</title>
+    <link>username.github.io/myprojectname//tags/dublin/</link>
+    <description>Recent content in Dublin on Independent.ie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    <atom:link href="username.github.io/myprojectname//tags/dublin/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snow And Freezing Temperatures Predicted For The Weekend</title>
+      <link>username.github.io/myprojectname//post/weather/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//post/weather/</guid>
+      <description>It&amp;rsquo;s time to rethink that Christmas party outfit.
+If you&amp;rsquo;re heading out to get into the festive swing of things this weekend you&amp;rsquo;ll need to wrap up warm because snow and freezing cold temperatures are being forecast for the next few days.
+  Guardian News on Youtube.
+According to Met Eireann there will be wintry showers right across the country with accumulations of snow over northern areas.
+There will also be ground frost with with icy patches and lows of minus 2 degrees, staying coldest over the eastern half of the country.</description>
+    </item>
+    
+  </channel>
+</rss>

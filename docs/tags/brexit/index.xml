@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brexit on Independent.ie</title>
+    <link>username.github.io/myprojectname//tags/brexit/</link>
+    <description>Recent content in Brexit on Independent.ie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Mon, 11 Dec 2017 16:56:43 +0200</lastBuildDate>
+    <atom:link href="username.github.io/myprojectname//tags/brexit/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UK Brexit Deal</title>
+      <link>username.github.io/myprojectname//post/brexit/</link>
+      <pubDate>Mon, 11 Dec 2017 16:56:43 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//post/brexit/</guid>
+      <description>Theresa May’s hopes of securing a unique post-Brexit trade deal with the EU were under threat on Saturday night as Brussels said it was coming under international pressure to deny Britain special treatment.
+After a week that saw May reach a deal with the EU that will allow Brexit talks to move forward on to future trade relations, EU officials insisted a bespoke deal more favourable to the UK than other non-EU nations was out of the question.</description>
+    </item>
+    
+  </channel>
+</rss>

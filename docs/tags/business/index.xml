@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Independent.ie</title>
+    <link>username.github.io/myprojectname//tags/business/</link>
+    <description>Recent content in Business on Independent.ie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 15:32:46 +0000</lastBuildDate>
+    <atom:link href="username.github.io/myprojectname//tags/business/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ikea not planning new stores in Ireland as sales hit €167m</title>
+      <link>username.github.io/myprojectname//post/ikea/</link>
+      <pubDate>Fri, 01 Dec 2017 15:32:46 +0000</pubDate>
+      
+      <guid>username.github.io/myprojectname//post/ikea/</guid>
+      <description>Ikea&amp;rsquo;s store in Ballymun is as busy as some of the Swedish group&amp;rsquo;s biggest international stores in places such as Russia and New York, with more than 3.6 million visits paid to the Dublin outlet in the last financial year. The Ikea store is ranked number two among all its global outlets for home decoration sales, and number three for lighting sales. But despite the huge number of visits paid to the store, Ikea Ireland&amp;rsquo;s market manager, Claudia Marshall, said there are still no public plans to open any other outlets.</description>
+    </item>
+    
+  </channel>
+</rss>

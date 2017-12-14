@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Independent.ie</title>
+    <link>username.github.io/myprojectname//categories/business/</link>
+    <description>Recent content in Business on Independent.ie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Mon, 11 Dec 2017 16:56:43 +0200</lastBuildDate>
+    <atom:link href="username.github.io/myprojectname//categories/business/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UK Brexit Deal</title>
+      <link>username.github.io/myprojectname//post/brexit/</link>
+      <pubDate>Mon, 11 Dec 2017 16:56:43 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//post/brexit/</guid>
+      <description>Theresa May’s hopes of securing a unique post-Brexit trade deal with the EU were under threat on Saturday night as Brussels said it was coming under international pressure to deny Britain special treatment.
+After a week that saw May reach a deal with the EU that will allow Brexit talks to move forward on to future trade relations, EU officials insisted a bespoke deal more favourable to the UK than other non-EU nations was out of the question.</description>
+    </item>
+    
+    <item>
+      <title>Fallout from Trump&#39;s US tax reforms is a reality Irish business must grasp</title>
+      <link>username.github.io/myprojectname//post/tax/</link>
+      <pubDate>Sat, 09 Dec 2017 13:07:31 +0200</pubDate>
+      
+      <guid>username.github.io/myprojectname//post/tax/</guid>
+      <description>It is now probable that major reform of the US tax system will be enacted before the end of 2017. Nearly 1,000 pages of tax legislation are now being considered and working their way through the US legislative process at an almost unprecedented pace. These are significant proposals, which will undoubtedly have a wide-ranging impact on all US business and individuals. What is also becoming clear is that US tax reform as proposed has a global reach with knock-on implications for US companies operating in Ireland and Irish companies doing business in the US.</description>
+    </item>
+    
+    <item>
+      <title>Ikea not planning new stores in Ireland as sales hit €167m</title>
+      <link>username.github.io/myprojectname//post/ikea/</link>
+      <pubDate>Fri, 01 Dec 2017 15:32:46 +0000</pubDate>
+      
+      <guid>username.github.io/myprojectname//post/ikea/</guid>
+      <description>Ikea&amp;rsquo;s store in Ballymun is as busy as some of the Swedish group&amp;rsquo;s biggest international stores in places such as Russia and New York, with more than 3.6 million visits paid to the Dublin outlet in the last financial year. The Ikea store is ranked number two among all its global outlets for home decoration sales, and number three for lighting sales. But despite the huge number of visits paid to the store, Ikea Ireland&amp;rsquo;s market manager, Claudia Marshall, said there are still no public plans to open any other outlets.</description>
+    </item>
+    
+  </channel>
+</rss>
