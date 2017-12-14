@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://talukds2.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Independent.ie"
@@ -17,21 +17,6 @@ copyright  = "Copyright"
 avatar = "css/images/avatar.png"
 logo = "css/images/logo.png"
 disable_mathjax = false # set to true to disable MathJax
-
-# Format dates with Go's time formatting
-date_format = "January 02, 2006"
-
-# Add custom assets with their paths relative to the static folder
-custom_css = []
-custom_js  = []
-
-# Create custom menu entries by defining a label and a link for
-# them. Since you can also link posts, you've the option the
-# place the links before or after them.
-#
-# E.g.: "Home" appears before all linked posts in the menu
-# and "Tags" / "Categories" after them.
-
 
 
 [[menu.main]]
@@ -73,9 +58,6 @@ url   = "/vid/"
 weight = 20
 
 [social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# created automatically.
 instagram       = "Independent.ie"
 youtube         = "IDGrandPrix2011"
 linkedin        = "irish-independent"
@@ -94,7 +76,7 @@ facebook_like = true
 
 [params.slider]
 enable = true
-num_features = 20 # The slider picks up the banner images from the N most recent posts, where num_features is N.
+num_features = 20 
 
 [Taxonomies]
 tags = "tags"
