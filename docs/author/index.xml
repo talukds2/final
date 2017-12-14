@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Independent.ie</title>
+    <link>/author/</link>
+    <description>Recent content in Author on Independent.ie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 15:42:47 +0000</lastBuildDate>
+    <atom:link href="/author/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aine Harte</title>
+      <link>/author/aine-harte/</link>
+      <pubDate>Fri, 01 Dec 2017 15:42:47 +0000</pubDate>
+      
+      <guid>/author/aine-harte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catherine Akintula</title>
+      <link>/author/catherine-akintula/</link>
+      <pubDate>Tue, 05 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/author/catherine-akintula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Talukder</title>
+      <link>/author/sarah-talukder/</link>
+      <pubDate>Mon, 11 Dec 2017 16:56:43 +0200</pubDate>
+      
+      <guid>/author/sarah-talukder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
